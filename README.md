@@ -1,6 +1,6 @@
-<h1 align="center">  Hi, I am sahedul!  </h1>
+<h1>  Hi, I am sahedul! 👋</h1>
 
-<p align="center">I am interested in learning new things and experiencing new things. Getting good at things I like, mostly programming and problem-solving.</p>
+<p>I am interested in learning new things and experiencing new things. Getting good at things I like, mostly programming and problem-solving.</p>
 
 
 
