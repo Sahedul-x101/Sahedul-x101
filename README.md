@@ -87,7 +87,7 @@ class SahedulHaque:
 
 ## Let's Connect
 
-<p align="center">
+<p>
 <a href="https://github.com/Sahedul-x101">
 <img src="https://img.shields.io/badge/GitHub-Sahedul--x101-181717?style=flat&logo=github"/>
 </a>
@@ -100,8 +100,11 @@ class SahedulHaque:
 <img src="https://img.shields.io/badge/Email-sahedulhaquesrabon%40gmail.com-EA4335?style=flat&logo=gmail"/>
 </a>
 </p>
-<p align="center">
-<i>"The expert in anything was once a beginner."</i>
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sahedul-x101&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
