@@ -1,36 +1,51 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:1E293B&text=Sahedul%20Haque&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563EB,100:111827&text=Sahedul%20Haque&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+Developer;Competitive+Programmer;Currently+Learning+React"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;Competitive+Programmer;Currently+Learning+React;Always+Learning+Something+New"/>
 </p>
 
-<h2 align="center">Hi, I'm Sahedul Haque 👋</h2>
+<h2 align="center">Hi 👋 I'm Sahedul Haque</h2>
 
 <p align="center">
-Backend Developer passionate about building web applications, learning new technologies, and solving algorithmic problems.
+Backend Developer • Django Enthusiast • Competitive Programmer
 </p>
 
 ---
 
 ## About Me
 
-- 💻 Backend Developer using **Python** and **Django**
-- 🌱 Currently learning **React**
-- ⚡ Interested in **Backend Development**, **REST APIs**, and **System Design**
-- 🧠 Regularly solving **Data Structures & Algorithms** problems
-- 🎯 Goal: Become a Full Stack Software Engineer
+I'm a Computer Science student from **Bangladesh** passionate about backend development and problem solving.
+
+- 🔹 Building web applications using **Django** & **Django REST Framework**
+- 🔹 Learning **React** to become a Full Stack Developer
+- 🔹 Enjoy solving **Data Structures & Algorithms** problems
+- 🔹 Interested in Backend Systems, APIs and Databases
+- 🔹 Always exploring new technologies
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,react,cpp,mysql,git,github,vscode,postman,html,css,js&perline=6"/>
+
+<img src="https://skillicons.dev/icons?i=python,django,react,c,cpp,js,mysql,git,github,vscode,postman,html,css&perline=7"/>
+
 </p>
+
+---
+
+## Current Focus
+
+- Django REST Framework
+- React
+- System Design
+- SQL Optimization
+- Docker
+- Open Source
 
 ---
 
@@ -38,9 +53,9 @@ Backend Developer passionate about building web applications, learning new techn
 
 ### Event Management System
 
-A web-based event management platform built with Django.
+A complete event management platform built with Django.
 
-**Features**
+**Highlights**
 
 - User Authentication
 - Event CRUD
@@ -48,19 +63,11 @@ A web-based event management platform built with Django.
 - Participants
 - Django ORM
 - Responsive UI
+- Clean Database Design
 
-**Repository**
+Repository:
 
-🔗 https://github.com/Sahedul-x101/event-management-system
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahedul-x101&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahedul-x101&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**https://github.com/Sahedul-x101/event-management-system**
 
 ---
 
@@ -80,7 +87,19 @@ A web-based event management platform built with Django.
 
 ---
 
-## Connect With Me
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahedul-x101&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahedul-x101&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
 
 <p align="center">
 
@@ -97,6 +116,24 @@ A web-based event management platform built with Django.
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### Languages
+
+Python • C • C++ • JavaScript • SQL
+
+### Frameworks
+
+Django • Django REST Framework • React
+
+### Tools
+
+Git • GitHub • VS Code • Postman • MySQL
+
+</div>
 
 ---
 
