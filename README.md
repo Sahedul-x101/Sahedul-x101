@@ -61,7 +61,7 @@ Repository:
 
 **https://github.com/Sahedul-x101/event-management-system**
 
-## Let's Connect :)
+## Let's Connect
 
 <p align="center">
 <a href="https://github.com/Sahedul-x101">
@@ -76,7 +76,6 @@ Repository:
 <img src="https://img.shields.io/badge/Email-sahedulhaquesrabon%40gmail.com-EA4335?style=flat&logo=gmail"/>
 </a>
 </p>
-
 <p align="center">
 <i>"The expert in anything was once a beginner."</i>
 </p>
