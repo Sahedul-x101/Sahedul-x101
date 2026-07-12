@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;Competitive+Programmer;Currently+Learning+React;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;Competitive+Programmer;Always+Learning+Something+New"/>
 </p>
 
 <h2 align="center">Hi 👋 I'm Sahedul Haque</h2>
