@@ -1,211 +1,114 @@
-<!-- ======================== BANNER ======================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Sahedul%20Haque&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:1E293B&text=Sahedul%20Haque&fontColor=ffffff&fontSize=45"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;Django+%7C+Django+REST+Framework;Competitive+Programmer;React+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&center=true&width=650&lines=Backend+Developer;Django+%26+Django+REST+Framework;Competitive+Programmer;Currently+Learning+React"/>
 </p>
 
-<h2 align="center">Hi 👋 I'm Sahedul Haque</h2>
+<h2 align="center">Backend Developer • Django • Python</h2>
 
-<h3 align="center">
-Backend Developer • Django Enthusiast • Competitive Programmer
-</h3>
-
----
-
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-## 💫 About Me
-
-💻 Passionate about Backend Development
-
-🌱 Currently learning **React**
-
-⚡ Building projects with **Django** & **Django REST Framework**
-
-🧠 Solving Data Structures & Algorithms problems
-
-🏆 Competitive Programmer
-
-🎯 Goal: Become a Full Stack Software Engineer
-
-📍 Bangladesh
+<p align="center">
+I enjoy building backend applications, solving algorithmic problems, and continuously improving my software engineering skills.
+</p>
 
 ---
 
-# 🚀 Tech Stack
+## About
 
-### Languages
+- Backend Developer from Bangladesh
+- Building web applications with **Django** and **Django REST Framework**
+- Learning **React** to become a Full Stack Developer
+- Passionate about Data Structures & Algorithms
+- Interested in scalable backend systems
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=python" />
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp" />
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=python,django,react,cpp,mysql,git,github,vscode,postman,html,css,js"/>
 
 </p>
 
 ---
 
-### Frameworks
+## Featured Project
 
-<p>
+### Event Management System
 
-<img src="https://skillicons.dev/icons?i=django" />
+A full-stack event management platform built with Django.
 
-<img src="https://skillicons.dev/icons?i=react" />
+**Highlights**
 
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+- Authentication
+- Event Management
+- Categories
+- Participants
+- Django ORM
+- Responsive UI
+
+Repository:
+
+**https://github.com/Sahedul-x101/event-management-system**
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahedul-x101&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahedul-x101&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-<img src="https://skillicons.dev/icons?i=postman" />
-
-</p>
-
----
-
-# 📖 Currently Learning
-
-- React
-- Django REST Framework
-- Authentication & JWT
-- Docker
-- Deployment
-- Advanced SQL
-- System Design
-
----
-
-# 🚀 Featured Project
-
-## 🎉 Event Management System
-⭐ https://github.com/Sahedul-x101/event-management-system
-
----
-
-# 🏆 Competitive Programming
+## Competitive Programming
 
 <p align="center">
 
 <a href="https://codeforces.com/profile/sahedulhaquesrabon">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Sahedul/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
-
-</p>
----
-
-# 📊 Profile Summary Cards
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahedul-x101&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahedul-x101&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahedul-x101&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
-
-<a href="mailto:sahedulhaquesrabon@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Sahedul-x101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/sahedul-haque-887b98329/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://codeforces.com/profile/sahedulhaquesrabon">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+&nbsp;
+
+<a href="mailto:sahedulhaquesrabon@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/Sahedul/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sahedul-x101&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below and this animation will appear automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sahedul-x101/Sahedul-x101/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"The expert in anything was once a beginner."**
-
 </p>
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
+*"The expert in anything was once a beginner."*
 
 </p>
-
-
