@@ -14,19 +14,15 @@
 Backend Developer • Django Enthusiast • Competitive Programmer
 </p>
 
----
-
 ## About Me
 
 I'm a Computer Science student from **Bangladesh** passionate about backend development and problem solving.
 
-- 🔹 Building web applications using **Django** & **Django REST Framework**
-- 🔹 Learning **React** to become a Full Stack Developer
-- 🔹 Enjoy solving **Data Structures & Algorithms** problems
-- 🔹 Interested in Backend Systems, APIs and Databases
-- 🔹 Always exploring new technologies
-
----
+-  Building web applications using **Django** & **Django REST Framework**
+-  Learning **React** to become a Full Stack Developer
+-  Enjoy solving **Data Structures & Algorithms** problems
+-  Interested in Backend Systems, APIs and Databases
+-  Always exploring new technologies
 
 ## Tech Stack
 
@@ -36,8 +32,6 @@ I'm a Computer Science student from **Bangladesh** passionate about backend deve
 
 </p>
 
----
-
 ## Current Focus
 
 - Django REST Framework
@@ -46,8 +40,6 @@ I'm a Computer Science student from **Bangladesh** passionate about backend deve
 - SQL Optimization
 - Docker
 - Open Source
-
----
 
 ## Featured Project
 
@@ -69,73 +61,21 @@ Repository:
 
 **https://github.com/Sahedul-x101/event-management-system**
 
----
-
-## Competitive Programming
+## Let's Connect :)
 
 <p align="center">
-
-<a href="https://codeforces.com/profile/sahedulhaquesrabon">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Sahedul/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahedul-x101&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahedul-x101&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Connect
-
-<p align="center">
-
 <a href="https://github.com/Sahedul-x101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Sahedul--x101-181717?style=flat&logo=github"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sahedul-haque-887b98329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sahedul_Haque-0A66C2?style=flat&logo=linkedin"/>
 </a>
-
+&nbsp;
 <a href="mailto:sahedulhaquesrabon@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-sahedulhaquesrabon%40gmail.com-EA4335?style=flat&logo=gmail"/>
 </a>
-
 </p>
-
----
-
-<div align="center">
-
-### Languages
-
-Python • C • C++ • JavaScript • SQL
-
-### Frameworks
-
-Django • Django REST Framework • React
-
-### Tools
-
-Git • GitHub • VS Code • Postman • MySQL
-
-</div>
-
----
 
 <p align="center">
 <i>"The expert in anything was once a beginner."</i>
