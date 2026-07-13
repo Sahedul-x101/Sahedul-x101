@@ -92,7 +92,7 @@ class SahedulHaque:
 <img src="https://img.shields.io/badge/GitHub-Sahedul--x101-181717?style=flat&logo=github"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sahedul-haque-887b98329/">
+<a href="https[://www.linkedin.com/in/sahedul-haque-887b98329](https://www.linkedin.com/in/sahedul-haque-x101/)/">
 <img src="https://img.shields.io/badge/LinkedIn-Sahedul_Haque-0A66C2?style=flat&logo=linkedin"/>
 </a>
 &nbsp;
