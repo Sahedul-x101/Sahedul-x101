@@ -44,7 +44,7 @@ class SahedulHaque:
 | **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark"/> |
 
 </div>
 
