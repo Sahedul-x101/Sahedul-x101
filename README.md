@@ -61,30 +61,6 @@ class SahedulHaque:
   <img src="https://img.shields.io/badge/Open%20Source-Exploring-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=111827"/>
 </p>
 
-## Featured Project
-
-<table align="center">
-  <tr>
-    <td width="800">
-      <h3 align="center">
-         <a href="https://github.com/Sahedul-x101/event-management-system">Event Management System</a>
-      </h3>
-      <p align="center">A complete event management platform built with Django.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/User%20Authentication-111827?style=flat-square&logo=shieldsdotio&logoColor=2563EB"/>
-        <img src="https://img.shields.io/badge/Event%20CRUD-111827?style=flat-square&logo=databricks&logoColor=2563EB"/>
-        <img src="https://img.shields.io/badge/Categories-111827?style=flat-square&logo=bookstack&logoColor=2563EB"/>
-        <img src="https://img.shields.io/badge/Participants-111827?style=flat-square&logo=googlemeet&logoColor=2563EB"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django%20ORM-111827?style=flat-square&logo=django&logoColor=2563EB"/>
-        <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=flat-square&logo=css3&logoColor=2563EB"/>
-        <img src="https://img.shields.io/badge/Clean%20Database%20Design-111827?style=flat-square&logo=postgresql&logoColor=2563EB"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## Let's Connect
 
 <p>
