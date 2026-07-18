@@ -13,7 +13,7 @@
 I'm a Computer Science student from **Bangladesh** focused on backend development with **Python**, **Django**, and **REST APIs**. I enjoy building scalable web applications and continuously improving my problem-solving skills through competitive programming.
 
 ```python
-class Developer:
+class SahedulHaque:
     stack = [
         "Python",
         "Django",
@@ -22,7 +22,6 @@ class Developer:
     ]
 
     learning = [
-        "React",
         "Docker",
         "System Design"
     ]
