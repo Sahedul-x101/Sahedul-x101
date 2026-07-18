@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;Competitive+Programmer;Always+Learning+Something+New"/>
 </p>
 
-<h2 align="center">Hi 👋 I'm Sahedul Haque</h2>
+<h2 align="center">👋 Welcome </h2>
 
 <p align="center">
-Backend Developer • Django Enthusiast • Competitive Programmer
+Backend Developer • Django • REST APIs
 </p>
 
 ## About Me
