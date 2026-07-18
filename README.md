@@ -36,7 +36,7 @@ class Developer:
 - Building web applications with **Django** and **Django REST Framework**
 - Designing and developing **REST APIs**
 - Solving **Data Structures & Algorithms** problems
-- Currently learning **React**, **Docker**, and **System Design**
+- Currently learning **Docker**, and **System Design**
 
 ---
 
@@ -60,7 +60,6 @@ class Developer:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-Active-2563EB?style=for-the-badge&logo=django&logoColor=white&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/React-Learning-2563EB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827"/>
   <img src="https://img.shields.io/badge/Docker-Learning-2563EB?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=111827"/>
   <img src="https://img.shields.io/badge/System%20Design-Learning-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=111827"/>
 </p>
