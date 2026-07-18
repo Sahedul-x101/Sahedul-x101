@@ -45,7 +45,7 @@ class SahedulHaque:
 
 | Category | Technologies |
 |:---------:|:------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash&theme=dark"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/> |
